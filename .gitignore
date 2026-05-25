@@ -1,17 +1,35 @@
-# Frontend
-frontend/node_modules
-frontend/dist
+# Python
+myenv/
+venv/
+__pycache__/
+*.pyc
 
-# Vite
-.vite
+# Node
+node_modules/
+
+# Jupyter
+.ipynb_checkpoints/
 
 # Environment
 .env
 
-# Python Virtual Env
-myenv/
-venv/
+# Build
+dist/
+build/
 
 # OS
 .DS_Store
 Thumbs.db
+
+# ML Models
+*.pkl
+*.joblib
+
+# Dataset
+*.csv
+
+# Vite
+frontend/dist/
+
+# Logs
+*.log
