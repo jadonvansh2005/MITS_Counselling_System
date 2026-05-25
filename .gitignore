@@ -1,0 +1,17 @@
+# Frontend
+frontend/node_modules
+frontend/dist
+
+# Vite
+.vite
+
+# Environment
+.env
+
+# Python Virtual Env
+myenv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
