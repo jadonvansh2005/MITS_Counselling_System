@@ -21,12 +21,9 @@ build/
 .DS_Store
 Thumbs.db
 
-# ML Models
-*.pkl
-*.joblib
 
-# Dataset
-*.csv
+
+
 
 # Vite
 frontend/dist/
